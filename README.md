@@ -2,6 +2,9 @@
 
 A Simple BMI Calculator to check if you are healthful.
 
+<img alt="App Screenshot 01" src="https://github.com/wuerta/bmi-calculator-01-flutter/blob/main/app_screenshot_01.png?raw=true" height="720">
+<img alt="App Screenshot 01" src="https://github.com/wuerta/bmi-calculator-01-flutter/blob/main/app_screenshot_02.png?raw=true" height="720">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
